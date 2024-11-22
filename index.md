@@ -28,7 +28,7 @@ features:
     details: 走出去吧，吹吹山谷的风，看看山顶的风景。
     icon: 🌈
   - title: 遇见有趣的事
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
+    details: 生活中的点滴都值得用心记录。
     icon: 📃
   - title: 难离难舍就像单车
     details: 骑行爱好者聚集地，分享有趣的骑行路线与沿途的风景。
